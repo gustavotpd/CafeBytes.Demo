@@ -1,0 +1,3 @@
+/Users/gustavo/GitHub/CafeBytes.Demo/CafeBytes.Demo.Android/CafeBytes.Demo.iOS/obj/iPhone/Debug/mtouch-cache/Link/monotouch.dll
+/Users/gustavo/GitHub/CafeBytes.Demo/CafeBytes.Demo.Android/CafeBytes.Demo.iOS/obj/iPhone/Debug/mtouch-cache/Link/CafeBytesDemoiOS.exe
+/Users/gustavo/GitHub/CafeBytes.Demo/CafeBytes.Demo.Android/CafeBytes.Demo.iOS/obj/iPhone/Debug/mtouch-cache/Link/mscorlib.dll

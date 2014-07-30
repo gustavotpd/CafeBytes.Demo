@@ -1,0 +1,13 @@
+/Users/gustavo/GitHub/CafeBytes.Demo/CafeBytes.Demo.Android/obj/Debug/MonoAndroid,Version=v4.4.AssemblyAttribute.cs
+/Users/gustavo/GitHub/CafeBytes.Demo/CafeBytes.Demo.Android/bin/Debug/CafeBytes.Demo.Android.dll.mdb
+/Users/gustavo/GitHub/CafeBytes.Demo/CafeBytes.Demo.Android/bin/Debug/CafeBytes.Demo.Android.dll
+/Users/gustavo/GitHub/CafeBytes.Demo/CafeBytes.Demo.Android/bin/Debug/CafeBytes.Demo.Android.apk
+/Users/gustavo/GitHub/CafeBytes.Demo/CafeBytes.Demo.Android/obj/Debug/android/bin/CafeBytes.Demo.Android.apk
+/Users/gustavo/GitHub/CafeBytes.Demo/CafeBytes.Demo.Android/obj/Debug/res/layout/main.xml
+/Users/gustavo/GitHub/CafeBytes.Demo/CafeBytes.Demo.Android/obj/Debug/res/values/strings.xml
+/Users/gustavo/GitHub/CafeBytes.Demo/CafeBytes.Demo.Android/obj/Debug/res/drawable/icon.png
+/Users/gustavo/GitHub/CafeBytes.Demo/CafeBytes.Demo.Android/obj/Debug/R.cs.flag
+/Users/gustavo/GitHub/CafeBytes.Demo/CafeBytes.Demo.Android/bin/Debug/CafeBytes.Demo.Android-Signed.apk
+/Users/gustavo/GitHub/CafeBytes.Demo/CafeBytes.Demo.Android/obj/Debug/uploadflags.txt
+/Users/gustavo/GitHub/CafeBytes.Demo/CafeBytes.Demo.Android/obj/Debug/CafeBytes.Demo.Android.dll
+/Users/gustavo/GitHub/CafeBytes.Demo/CafeBytes.Demo.Android/obj/Debug/CafeBytes.Demo.Android.dll.mdb

@@ -33,4 +33,7 @@
     <Folder Include="Managers\" />
     <Folder Include="Validators\" />
   </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Managers\IFormManager.cs" />
+  </ItemGroup>
 </Project>
