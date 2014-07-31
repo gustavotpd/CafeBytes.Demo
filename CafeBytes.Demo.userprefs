@@ -1,12 +1,14 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" PreferredExecutionTarget="Android.MonoForAndroid_API_10" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="CafeBytes.Demo.Core/CafeBytes.Demo.Contract/Managers/IFormManager.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CafeBytes.Demo.Android/MainActivity.cs">
     <Files>
       <File FileName="CafeBytes.Demo.Android/CafeBytes.Demo.iOS/Main.cs" Line="21" Column="1" />
       <File FileName="CafeBytes.Demo.Android/CafeBytes.Demo.iOS/CafeBytes.Demo.iOSViewController.designer.cs" Line="18" Column="1" />
-      <File FileName="CafeBytes.Demo.Android/MainActivity.cs" Line="20" Column="4" />
+      <File FileName="CafeBytes.Demo.Android/MainActivity.cs" Line="31" Column="32" />
       <File FileName="CafeBytes.Demo.Core/Managers/FormManager.cs" Line="1" Column="1" />
-      <File FileName="CafeBytes.Demo.Core/CafeBytes.Demo.Contract/Managers/IFormManager.cs" Line="1" Column="1" />
+      <File FileName="CafeBytes.Demo.Core/CafeBytes.Demo.Contract/Managers/IFormManager.cs" Line="10" Column="1" />
+      <File FileName="CafeBytes.Demo.Android/CafeBytes.Demo.iOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="CafeBytes.Demo.Android/Resources/values/Strings.xml" Line="3" Column="22" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

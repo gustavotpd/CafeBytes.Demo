@@ -1,0 +1,1 @@
+/Users/gustavo/GitHub/CafeBytes.Demo/CafeBytes.Demo.Core/CafeBytes.Demo.Contract/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs

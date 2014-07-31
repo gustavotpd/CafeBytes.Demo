@@ -12,7 +12,10 @@ namespace CafeBytes.Demo.Android
 	[Activity (Label = "CafeBytes.Demo.Android", MainLauncher = true, Icon = "@drawable/icon")]
 	public class MainActivity : Activity
 	{
-		int count = 1;
+		private EditText _name;
+		private EditText _email;
+		private Button _submitButton;
+		private ImageView _logo;
 
 		protected override void OnCreate (Bundle bundle)
 		{
@@ -21,12 +24,18 @@ namespace CafeBytes.Demo.Android
 			// Set our view from the "main" layout resource
 			SetContentView (Resource.Layout.Main);
 
+			_logo = FindViewById<ImageView> (Resource.Id.imageView1);
+			_name = FindViewById<EditText> (Resource.Id.nameEditText);
+			_email = FindViewById<EditText> (Resource.Id.emailEditText);
+
+			_logo.SetBackgroundResource (Resource.Drawable.logo);
+
 			// Get our button from the layout resource,
 			// and attach an event to it
-			Button button = FindViewById<Button> (Resource.Id.myButton);
+			_submitButton = FindViewById<Button> (Resource.Id.submitButton);
 			
-			button.Click += delegate {
-				button.Text = string.Format ("{0} clicks!", count++);
+			_submitButton.Click += delegate {
+
 			};
 		}
 	}
