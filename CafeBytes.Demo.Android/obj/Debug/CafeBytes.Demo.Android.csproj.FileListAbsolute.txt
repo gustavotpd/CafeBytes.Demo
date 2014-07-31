@@ -1,0 +1,14 @@
+D:\GitHub\CafeBytes.Demo\CafeBytes.Demo.Android\bin\Debug\CafeBytes.Demo.Android.dll
+D:\GitHub\CafeBytes.Demo\CafeBytes.Demo.Android\bin\Debug\CafeBytes.Demo.Android.pdb
+D:\GitHub\CafeBytes.Demo\CafeBytes.Demo.Android\bin\Debug\CafeBytes.Demo.Android.dll.mdb
+D:\GitHub\CafeBytes.Demo\CafeBytes.Demo.Android\bin\Debug\CafeBytes.Demo.Android.apk
+D:\GitHub\CafeBytes.Demo\CafeBytes.Demo.Android\bin\Debug\CafeBytes.Demo.Android-Signed.apk
+D:\GitHub\CafeBytes.Demo\CafeBytes.Demo.Android\obj\Debug\CafeBytes.Demo.Android.dll
+D:\GitHub\CafeBytes.Demo\CafeBytes.Demo.Android\obj\Debug\CafeBytes.Demo.Android.pdb
+D:\GitHub\CafeBytes.Demo\CafeBytes.Demo.Android\obj\Debug\android\bin\CafeBytes.Demo.Android.apk
+D:\GitHub\CafeBytes.Demo\CafeBytes.Demo.Android\obj\Debug\res\layout\main.xml
+D:\GitHub\CafeBytes.Demo\CafeBytes.Demo.Android\obj\Debug\res\values\strings.xml
+D:\GitHub\CafeBytes.Demo\CafeBytes.Demo.Android\obj\Debug\res\drawable\icon.png
+D:\GitHub\CafeBytes.Demo\CafeBytes.Demo.Android\obj\Debug\res\drawable\logo.png
+D:\GitHub\CafeBytes.Demo\CafeBytes.Demo.Android\obj\Debug\R.cs.flag
+D:\GitHub\CafeBytes.Demo\CafeBytes.Demo.Android\obj\Debug\uploadflags.txt

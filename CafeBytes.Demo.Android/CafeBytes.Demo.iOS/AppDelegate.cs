@@ -19,6 +19,15 @@ namespace CafeBytes.Demo.iOS
 			get;
 			set;
 		}
+
+		public override bool FinishedLaunching(UIApplication app, NSDictionary options)
+		{
+			Window.RootViewController = new CafeBytes_Demo_iOSViewController ();
+
+			window.MakeKeyAndVisible();
+
+			return true;
+		}
 		
 		// This method is invoked when the application is about to move from active to inactive state.
 		// OpenGL applications should use this method to pause.

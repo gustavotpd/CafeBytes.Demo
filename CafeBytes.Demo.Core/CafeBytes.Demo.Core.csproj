@@ -33,5 +33,19 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Managers\FormManager.cs" />
+    <Compile Include="Validators\Validator.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="CafeBytes.Demo.Contract\CafeBytes.Demo.Contract.csproj">
+      <Project>{02FCFCB3-A9E7-4B39-9FBC-181EAA3BCBD5}</Project>
+      <Name>CafeBytes.Demo.Contract</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CafeBytes.Demo.Http\CafeBytes.Demo.Service\CafeBytes.Demo.Service.csproj">
+      <Project>{89164F34-5C98-43C9-85FE-2BD330D9E45E}</Project>
+      <Name>CafeBytes.Demo.Service</Name>
+    </ProjectReference>
   </ItemGroup>
 </Project>

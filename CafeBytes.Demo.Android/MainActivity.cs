@@ -1,5 +1,4 @@
 ﻿using System;
-
 using Android.App;
 using Android.Content;
 using Android.Runtime;
@@ -34,9 +33,12 @@ namespace CafeBytes.Demo.Android
 			// and attach an event to it
 			_submitButton = FindViewById<Button> (Resource.Id.submitButton);
 			
-			_submitButton.Click += delegate {
+			_submitButton.Click += SendData;
+		}
 
-			};
+		public void SendData(object sender, EventArgs e)
+		{
+
 		}
 	}
 }

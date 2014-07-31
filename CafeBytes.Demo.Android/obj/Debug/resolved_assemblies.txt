@@ -1,1 +1,1 @@
-/Users/gustavo/GitHub/CafeBytes.Demo/CafeBytes.Demo.Android/bin/Debug/CafeBytes.Demo.Android.dll
+D:\GitHub\CafeBytes.Demo\CafeBytes.Demo.Android\bin\Debug\CafeBytes.Demo.Android.dll
